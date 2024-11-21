@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>86047308777-pevdkrbokoojn6ct62qkkg2dl6lg5sv8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.86047308777-pevdkrbokoojn6ct62qkkg2dl6lg5sv8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>86047308777-oeikqlbjjn31cbjj9ijqu4ikdhfnv1ne.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUWY3ZohKJkb9JeisViF4_QwK5iyiEI6Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>86047308777</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.newzen.candy</string>
+	<key>PROJECT_ID</key>
+	<string>candy-b2498</string>
+	<key>STORAGE_BUCKET</key>
+	<string>candy-b2498.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:86047308777:ios:8d843b3983e0471d</string>
+	<key>DATABASE_URL</key>
+	<string>https://candy-b2498.firebaseio.com</string>
+</dict>
+</plist>

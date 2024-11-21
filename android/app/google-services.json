@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "86047308777",
+    "firebase_url": "https://candy-b2498.firebaseio.com",
+    "project_id": "candy-b2498",
+    "storage_bucket": "candy-b2498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86047308777:android:0ad374fb1bbdf6d5",
+        "android_client_info": {
+          "package_name": "mars.nomad.com.newzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86047308777-oeikqlbjjn31cbjj9ijqu4ikdhfnv1ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mars.nomad.com.newzen",
+            "certificate_hash": "8bb0fc204449084409f953876db7953f47b833e9"
+          }
+        },
+        {
+          "client_id": "86047308777-l0jvai4kp4pim459t610r56ccs6mq2ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSF75Rj3HuqokG2Ybc71vR2RYO5RswS00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86047308777-l0jvai4kp4pim459t610r56ccs6mq2ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86047308777-pevdkrbokoojn6ct62qkkg2dl6lg5sv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newzen.candy",
+                "app_store_id": "1319183196"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
